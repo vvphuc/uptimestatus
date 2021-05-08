@@ -16,7 +16,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Website Up Time
   introTitle: "**Upptime** checks status of page & monitor."
-  introMessage: **real-time** data
+  introMessage: "**real-time** data"
   navbar:
     - title: Status
       href: /
