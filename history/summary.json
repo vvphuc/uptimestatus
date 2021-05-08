@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 674,
-    "timeDay": 674,
-    "timeWeek": 674,
-    "timeMonth": 674,
-    "timeYear": 674,
+    "time": 652,
+    "timeDay": 652,
+    "timeWeek": 652,
+    "timeMonth": 652,
+    "timeYear": 652,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5534,
-    "timeDay": 5534,
-    "timeWeek": 5534,
-    "timeMonth": 5534,
-    "timeYear": 5534,
+    "time": 5508,
+    "timeDay": 5508,
+    "timeWeek": 5508,
+    "timeMonth": 5508,
+    "timeYear": 5508,
     "dailyMinutesDown": {}
   },
   {
@@ -41,23 +41,23 @@
     "icon": "https://favicons.githubusercontent.com/intecks.com",
     "slug": "intecks-com",
     "status": "down",
-    "uptime": "72.86%",
-    "uptimeDay": "72.86%",
-    "uptimeWeek": "72.86%",
-    "uptimeMonth": "72.86%",
-    "uptimeYear": "72.86%",
+    "uptime": "6.84%",
+    "uptimeDay": "6.84%",
+    "uptimeWeek": "6.84%",
+    "uptimeMonth": "6.84%",
+    "uptimeYear": "6.84%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-08": 0
+      "2021-05-08": 7
     }
   },
   {
     "name": "apcaustralia.net.au",
-    "url": "http://apcaustralia.net.au",
+    "url": "https://apcaustralia.net.au",
     "icon": "https://favicons.githubusercontent.com/apcaustralia.net.au",
     "slug": "apcaustralia-net-au",
     "status": "up",
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 242,
-    "timeDay": 242,
-    "timeWeek": 242,
-    "timeMonth": 242,
-    "timeYear": 242,
+    "time": 390,
+    "timeDay": 390,
+    "timeWeek": 390,
+    "timeMonth": 390,
+    "timeYear": 390,
     "dailyMinutesDown": {}
   }
 ]
