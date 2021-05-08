@@ -10,7 +10,7 @@ sites:
   - name: intecks.com
     url: https://intecks.com
   - name: apcaustralia.net.au
-    url: http://apcaustralia.net.au
+    url: https://apcaustralia.net.au
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
