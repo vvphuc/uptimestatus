@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 703,
-    "timeDay": 608,
+    "time": 710,
+    "timeDay": 807,
     "timeWeek": 778,
-    "timeMonth": 703,
-    "timeYear": 703,
+    "timeMonth": 710,
+    "timeYear": 710,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5126,
-    "timeDay": 4849,
-    "timeWeek": 5038,
-    "timeMonth": 5126,
-    "timeYear": 5126,
+    "time": 5132,
+    "timeDay": 5219,
+    "timeWeek": 5059,
+    "timeMonth": 5132,
+    "timeYear": 5132,
     "dailyMinutesDown": {}
   },
   {
@@ -52,7 +52,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-20": 890,
+      "2021-05-21": 45,
+      "2021-05-20": 1440,
       "2021-05-19": 1440,
       "2021-05-18": 1440,
       "2021-05-17": 1440,
@@ -73,18 +74,16 @@
     "icon": "https://favicons.githubusercontent.com/apcaustralia.net.au",
     "slug": "apcaustralia-net-au",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 419,
-    "timeDay": 354,
-    "timeWeek": 394,
-    "timeMonth": 419,
-    "timeYear": 419,
-    "dailyMinutesDown": {
-      "2021-05-20": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 406,
+    "timeDay": 209,
+    "timeWeek": 390,
+    "timeMonth": 406,
+    "timeYear": 406,
+    "dailyMinutesDown": {}
   }
 ]
