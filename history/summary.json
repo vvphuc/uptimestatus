@@ -52,7 +52,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-24": 892,
+      "2021-05-24": 898,
       "2021-05-23": 1440,
       "2021-05-22": 1440,
       "2021-05-21": 1440,
@@ -76,19 +76,19 @@
     "url": "https://apcaustralia.net.au",
     "icon": "https://favicons.githubusercontent.com/apcaustralia.net.au",
     "slug": "apcaustralia-net-au",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 503,
-    "timeDay": 1868,
-    "timeWeek": 562,
-    "timeMonth": 503,
-    "timeYear": 503,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 552,
+    "timeDay": 1674,
+    "timeWeek": 664,
+    "timeMonth": 552,
+    "timeYear": 552,
     "dailyMinutesDown": {
-      "2021-05-24": 0
+      "2021-05-24": 7
     }
   }
 ]
