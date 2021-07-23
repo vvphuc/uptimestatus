@@ -22,19 +22,19 @@
     "url": "http://dau-gia.com",
     "icon": "https://favicons.githubusercontent.com/dau-gia.com",
     "slug": "dau-gia-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 5096,
-    "timeDay": 4748,
-    "timeWeek": 4942,
-    "timeMonth": 5185,
-    "timeYear": 5096,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 5114,
+    "timeDay": 5629,
+    "timeWeek": 5138,
+    "timeMonth": 5228,
+    "timeYear": 5114,
     "dailyMinutesDown": {
-      "2021-07-23": 0
+      "2021-07-23": 9
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-23": 878,
+      "2021-07-23": 887,
       "2021-07-22": 1440,
       "2021-07-21": 1440,
       "2021-07-20": 1440,
